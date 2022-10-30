@@ -1,0 +1,106 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.sideBar {
+    width: 370px;
+    background-color: #1E2939;
+    color: #fff;
+}
+
+.mainContent{
+    width: 800px;
+    padding: 88px;
+}
+
+.photo {
+    padding: 40px 0 0 0;
+    border-radius: 60px;
+}
+
+.contact {
+   margin-top: 51px;
+   margin-bottom: 45px;
+   padding-left: 40px;
+}
+
+.contact h3 a {
+    color: gray;
+    text-decoration: none;
+    
+}
+
+.contact h3 a:hover {
+    color: darkgray;
+}
+
+.techSkills {
+   margin-bottom: 45px;
+   padding-left: 40px;
+}
+
+.techSkills ul {
+    color: #FB6D3A;
+}
+
+.techSkills ul span {
+    color:#fff;
+}
+
+.softSkill{
+padding-left: 40px;
+}
+
+.softSkill ul {
+    color: #FB6D3A;
+}
+
+.softSkill ul span {
+    color:#fff;
+}
+
+.mainInfo {
+    margin-bottom: 40px;
+}
+
+.projectLink {
+    margin-bottom: 50px;
+}
+
+.projectLink li a {
+    text-decoration: none;
+    color: #595959;
+}
+
+.projectLink li a:hover {
+    color: darkgray;
+}
+
+.work p {
+    color: #A8A8A8;
+}
+
+.work span {
+    color: #FB6D3A;
+}
+
+.work {
+    margin-bottom: 45px;
+}
+
+.education p {
+    color: #A8A8A8;
+}
+
+.education h3 {
+    color: #FB6D3A;
+}
+
+
